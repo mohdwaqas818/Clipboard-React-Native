@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Sticky Note",
-    "slug": "sticky-note",
+    "name": "Clipboard",
+    "slug": "clipboard-react-native-app",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -27,6 +27,6 @@
       "supportsTablet": true
     },
     "description": "CRUD App",
-    "githubUrl": "https://github.com/mohdwaqas818/"
+    "githubUrl": "https://github.com/mohdwaqas818/Clipboard-React-Native"
   }
 }
